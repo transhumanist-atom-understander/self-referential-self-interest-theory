@@ -13,10 +13,10 @@ Logical decision theory not only seemed relevant in this context, but seemed lik
 ## The claim: S is collectively self-defeating
 
 Derek Parfit's book describes a variety of theories of morality and rationality, which he refers to by single-letter acronyms.
-The argument I'm going to repeat concerns the self-interest theory (S), which he says is a theory of rationality, though he doesn't mean [what Yudkowsky means by "rationality"](https://www.lesswrong.com/posts/HcCpvYLoSFP4iAqSz/rationality-appreciating-cognitive-algorithms).
+The argument I'm going to repeat concerns the self-interest theory ($S$), which he says is a theory of rationality, though he doesn't mean [what Yudkowsky means by "rationality"](https://www.lesswrong.com/posts/HcCpvYLoSFP4iAqSz/rationality-appreciating-cognitive-algorithms).
 
-What we need to know about S is that it prescribes an aim, which is that your life go as well as possible, as well as what I'll call a policy: it recommends taking the actions that make your life go as well as possible.
-He argues that S has the property of being collectively self-defeating, meaning that if we all follow S, then we will do worse by our S-given aim than if we had all taken other actions.
+What we need to know about $S$ is that it prescribes an aim, which is that your life go as well as possible, as well as what I'll call a policy: it recommends taking the actions that make your life go as well as possible.
+He argues that $S$ has the property of being collectively self-defeating, meaning that if we all follow $S$, then we will do worse by our $S$-given aim than if we had all taken other actions.
 
 We shouldn't exaggerate the significance of this conclusion in the book: Parfit does not say that you should reject theories for being collectively self-defeating.
 What's special about this argument is that it is the first argument in the book—not the most important one—where my reaction was like, okay, but what if we follow the LDT maxim?
@@ -25,24 +25,24 @@ As we'll see, the basic idea of LDT is relevant because the definition of a coll
 
 ## The argument: S in the prisoner's dilemma
 
-The argument that S is collectively self-defeating begins by considering two S theorists in a prisoner's dilemma.
+The argument that $S$ is collectively self-defeating begins by considering two $S$ theorists in a prisoner's dilemma.
 I assume you're familiar with the prisoner's dilemma, but there's two main things we're going to need to remember about it.
 One is that the payoffs are such that it's better for you to defect regardless of what your opponent does, but both players defecting is worse for you than if both players cooperate.
 And the other thing we're going to need to remember is that you can't affect what your opponent does.
 
-Following S's recommendation to take the action that's better for them, both players defect.
-Thus they have done worse according to their S-given aim than if they had both cooperated.
-Therefore, S is collectively self-defeating.
+Following $S$'s recommendation to take the action that's better for them, both players defect.
+Thus they have done worse according to their $S$-given aim than if they had both cooperated.
+Therefore, $S$ is collectively self-defeating.
 
 Is it so clear that they both defect?
 Let's concede that they do.
-I'm going to try to apply the basic principle of LDT not by disputing this argument about S, but by proposing a new theory, a modification of S.
+I'm going to try to apply the basic principle of LDT not by disputing this argument about $S$, but by proposing a new theory, a modification of $S$.
 
 ## The self-referential self-interest theory S²
 
 I'll call the new theory the self-referential self-interest theory.
-We could abbreviate that to SS, but I'll give it the cutesy name $S^2$, even though the S's don't stand for the same thing.
-$S^2$ gives you the same aim as S, but a different policy.
+We could abbreviate that to $SS$, but I'll give it the cutesy name $S^2$, even though the $S$'s don't stand for the same thing.
+$S^2$ gives you the same aim as $S$, but a different policy.
 It recommends taking the action that it would be best for you for $S^2$ to recommend.
 
 By this, of course, I mean the action that would be best for you to $S^2$ to recommend in your particular situation.
@@ -56,7 +56,7 @@ So it is better for you for $S^2$ to recommend cooperation, because if both play
 Therefore $S^2$ recommends that you cooperate.
 
 The same reasoning applies the other player, so if both are $S^2$ theorists, the outcome is mutual cooperation.
-Parfit's argument that S is collectively self-defeating does not go through for $S^2$.
+Parfit's argument that $S$ is collectively self-defeating does not go through for $S^2$.
 
 ## Conclusion
 
