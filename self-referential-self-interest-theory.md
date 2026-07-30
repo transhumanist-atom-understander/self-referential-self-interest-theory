@@ -7,7 +7,7 @@ It's not like we're really going to run into Newcomb's problem.
 
 What I want to share, which I think is interesting in this respect, is a case where logical decision theory seemed important in a philosophical argument.
 I was reading Derek Parfit's book _Reasons and Persons_.
-One of his definitions invovles games where all players are using the same theory.
+One of his definitions involves games where all players are using the same theory.
 Logical decision theory not only seemed relevant in this context, but seemed like a major missing piece in the book.
 
 ## The claim: S is collectively self-defeating
