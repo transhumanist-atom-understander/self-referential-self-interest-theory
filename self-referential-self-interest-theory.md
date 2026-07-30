@@ -14,10 +14,13 @@
 
 Derek Parfit's book describes a variety of theories of morality and rationality, which he refers to by single-letter acronyms.
 The argument I'm going to repeat concerns the self-interest theory (S), which he says is a theory of rationality, though he doesn't mean what we mean by rationality.
+
 What we need to know about S is that it prescribes an aim, which is that your life go as well as possible, as well as what I'll call a policy: it recommends taking the actions that make your life go as well as possible.
 He argues that S has the property of being collectively self-defeating, meaning that if we all follow S, then we will do worse by our S-given aim than if we had all taken other actions.
+
 We shouldn't exaggerate the significance of this conclusion in the book: Parfit does not say that you should reject theories for being collectively self-defeating.
-What's special about this argument is that it is the first argument in the book—not the most important one—where my reaction was like, okay, but what if we follow the LDFT maxim?
+What's special about this argument is that it is the first argument in the book—not the most important one—where my reaction was like, okay, but what if we follow the LDT maxim?
+
 As we'll see, the basic idea of LDT is relevant because the definition of a collectively self-defeating theory references a situation with multiple people who are all following the same theory.
 
 ## The argument: S in the prisoner's dilemma
