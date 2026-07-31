@@ -7,7 +7,7 @@ Do we really need LDT?
 
 What's the difference between choosing the output of your decision algorithm and just making a choice?
 There is no difference, as long as your choice is the only thing in the world that depends on your decision algorithm.
-Substantial applications of logical decision theory are games where the player's environment contains some implementation of the algorithm besides the player.
+Substantial applications of LDT are games where the player's environment contains some implementation of the algorithm.
 The central example is Newcomb's problem.
 
 But Newcomb's problem sounds like a science fiction story, and I'm not convinced by [the case that analogous problems are part of our normal social lives](https://www.lesswrong.com/posts/puutBJLWbg2sXpFbu/newcomblike-problems-are-the-norm).
