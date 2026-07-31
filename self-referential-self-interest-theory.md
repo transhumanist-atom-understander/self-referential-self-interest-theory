@@ -2,18 +2,27 @@
 
 The main difficulty in formulating a logical decision theory is how to define the counterfactuals: "If my algorithm outputs this, the result will be that".
 
-But what's the point of this theoretical work? Is it even important?
-It's not like we're really going to run into Newcomb's problem.
+But what's the point of this theoretical work?
+Do we really need LDT?
 
-What I want to share, which I think is interesting in this respect, is a case where logical decision theory seemed important in a philosophical argument.
-I was reading Derek Parfit's book _Reasons and Persons_.
-One of his definitions involves games where all players are using the same theory.
-Logical decision theory not only seemed relevant in this context, but seemed like a major missing piece in the book.
+What's the difference between choosing the output of your decision algorithm and just making a choice?
+There is no difference, as long as your choice is the only thing in the world that depends on your decision algorithm.
+Substantial applications of logical decision theory are games where the player's environment contains some implementation of the algorithm besides the player.
+The central example is Newcomb's problem.
+
+But Newcomb's problem sounds like a science fiction story, and I'm not convinced by [the case that analogous problems are part of our normal social lives](https://www.lesswrong.com/posts/puutBJLWbg2sXpFbu/newcomblike-problems-are-the-norm).
+
+That's the context for the observation I want to share: that I was reading Derek Parfit's _Reasons and Person's_, and LDT seemed like an important missing piece in one of his arguments.
+It's not an application of LDT in real life, but it's an application to philosophical argumentation.
+
+Derek Parfit's book describes a variety of theories of morality and rationality, and defines certain properties of these theories.
+One property, the property of being "collectively self-defeating", is defined in terms of games where multiple players are deciding according to the same theory.
+If we view drawing a conclusion from a theory as an algorithm, then this is, for each player, an opportunity for a substantial application of LDT.
 
 ## The claim: S is collectively self-defeating
 
-Derek Parfit's book describes a variety of theories of morality and rationality, which he refers to by single-letter acronyms.
-The argument I'm going to repeat concerns the self-interest theory ($S$), which he says is a theory of rationality, though he doesn't mean [what Yudkowsky means by "rationality"](https://www.lesswrong.com/posts/HcCpvYLoSFP4iAqSz/rationality-appreciating-cognitive-algorithms).
+The argument I'm going to repeat concerns the self-interest theory ($S$), which Parfit says is a theory of rationality.
+(Since this is LessWrong, I must add that he doesn't mean [what Yudkowsky means by "rationality"](https://www.lesswrong.com/posts/HcCpvYLoSFP4iAqSz/rationality-appreciating-cognitive-algorithms), but I don't think that's important for this argument.)
 
 What we need to know about $S$ is that it prescribes an aim, which is that your life go as well as possible, as well as what I'll call a policy: it recommends taking the actions that make your life go as well as possible.
 He argues that $S$ has the property of being collectively self-defeating, meaning that if we all follow $S$, then we will do worse by our $S$-given aim than if we had all taken other actions.
@@ -70,7 +79,6 @@ We have not explained what this means or derived it logically from a description
 However, this example from Parfit's book is at least suggestive that LDT is big if true.
 When I got to this point in the book, I was thinking, okay, but what about something like $S^2$?
 And this is just the first place in the book where LDT seems to apply.
-LDT seems to me like a major missing piece.
-But I haven't really gotten far enough in the book to say.
 
-In any case, this was an application of LDT beyond the problems it was designed to solve, to an argument from philosophy of independent interest.
+I haven't really gotten far enough in the book to say the ultimate consequences of LDT for Parfit's central points.
+But in any case, this was an application of LDT not to Newcomb's problem or the body of decision theory literature provoked by it, but to an argument from philosophy of independent interest.
