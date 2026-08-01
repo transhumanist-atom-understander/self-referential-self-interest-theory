@@ -17,7 +17,7 @@ It's not an application of LDT in real life, but it's an application to philosop
 
 Derek Parfit's book describes a variety of theories of morality and rationality, and defines certain properties of these theories.
 One property, the property of being "collectively self-defeating", is defined in terms of games where multiple players are deciding according to the same theory.
-If we view drawing a conclusion from a theory as an algorithm, then this is, for each player, an opportunity for a substantial application of LDT.
+This provides an opportunity to apply the basic idea of LDT.
 
 ## The claim: S is collectively self-defeating
 
@@ -28,9 +28,7 @@ What we need to know about $S$ is that it prescribes an aim, which is that your 
 He argues that $S$ has the property of being collectively self-defeating, meaning that if we all follow $S$, then we will do worse by our $S$-given aim than if we had all taken other actions.
 
 We shouldn't exaggerate the significance of this conclusion in the book: Parfit does not say that you should reject theories for being collectively self-defeating.
-What's special about this argument is that it is the first argument in the book—not the most important one—where my reaction was like, okay, but what if we follow the LDT maxim?
-
-As we'll see, the basic idea of LDT is relevant because the definition of a collectively self-defeating theory references a situation with multiple people who are all following the same theory.
+What's special about this argument is that it is the first argument in the book—not the most important one—where an LDT-inspired move went somewhere interesting.
 
 ## The argument: S in the prisoner's dilemma
 
@@ -49,13 +47,11 @@ I'm going to try to apply the basic principle of LDT not by disputing this argum
 
 ## The self-referential self-interest theory S²
 
-I'll call the new theory the self-referential self-interest theory.
-We could abbreviate that to $SS$, but I'll give it the cutesy name $S^2$, even though the $S$'s don't stand for the same thing.
-$S^2$ gives you the same aim as $S$, but a different policy.
+The new theory, $S^2$, gives you the same aim as $S$, but a different policy.
 It recommends taking the action that it would be best for you for $S^2$ to recommend.
 
-By this, of course, I mean the action that would be best for you to $S^2$ to recommend in your particular situation.
-Another important fact about the prisoner's dilemma is that it is symmetrical: both players are in the same situation.
+I call this the self-referential self-interest theory.
+We could abbreviate that to $SS$, but I prefer the cutesy name $S^2$, even though the $S$'s don't stand for the same thing.
 
 Let's consider a prisoner's dilemma between $S^2$ theorists, and assume that they have common knowledge that they are both $S^2$ theorists.
 What does $S^2$ recommend?
