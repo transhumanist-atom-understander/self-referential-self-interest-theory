@@ -1,6 +1,8 @@
 [A logical decision theory recommends that you choose as if deciding the output of your decision algorithm](https://www.lesswrong.com/w/logical-decision-theories?lens=introduction-to-logical-decision-theory-for-analytic#Logical_decision_theory).
 
-The main difficulty in formulating a logical decision theory is how to define the counterfactuals: "If my algorithm outputs this, the result will be that".
+The main difficulty in formulating a logical decision theory is how to define statements like: "If my algorithm outputs this, the result will be that".
+These look like counterfactual implications, but counterfactuals describe possible worlds with different contingent facts, whereas here we are considering if a logical fact was different.
+Much theoretical work has gone into elaborating this kind of _counterpossible_ implication, without, in my opinion, satisfactory results.
 
 But what's the point of this theoretical work?
 Do we really need LDT?
@@ -17,7 +19,7 @@ It's not an application of LDT in real life, but it's an application to philosop
 
 Derek Parfit's book describes a variety of theories of morality and rationality, and defines certain properties of these theories.
 One property, the property of being "collectively self-defeating", is defined in terms of games where multiple players are deciding according to the same theory.
-If we view drawing a conclusion from a theory as an algorithm, then this is, for each player, an opportunity for a substantial application of LDT.
+Because each player faces an "environment" (the other player) which depends on the same theory they are using to decide, a philosophical move inspired by LDT yields interesting results.
 
 ## The claim: S is collectively self-defeating
 
@@ -54,31 +56,33 @@ We could abbreviate that to $SS$, but I'll give it the cutesy name $S^2$, even t
 $S^2$ gives you the same aim as $S$, but a different policy.
 It recommends taking the action that it would be best for you for $S^2$ to recommend.
 
-By this, of course, I mean the action that would be best for you to $S^2$ to recommend in your particular situation.
-Another important fact about the prisoner's dilemma is that it is symmetrical: both players are in the same situation.
-
 Let's consider a prisoner's dilemma between $S^2$ theorists, and assume that they have common knowledge that they are both $S^2$ theorists.
 What does $S^2$ recommend?
 
-Let's assume, as seems reasonable based on the description above, that if $S^2$ recommends an action, then both players will take that action.
-So it is better for you for $S^2$ to recommend cooperation, because if both players cooperate, that's better for you than if they both defect.
+Let's suppose, now, that if $S^2$ recommends an action, then both players will take that action.
+I would like to say that this follows from the definition of $S^2$ and the symmetry of the prisoners dilemma, that is, that it looks the same from the perspective of each player.
+It is at this point that I have to admit that because I have no logically consistent formal theory, I cannot logically show this follows.
+Consider it instead a desired property of a future theory.
+
+But assuming that whatever $S^2$ recommends both players will do, it is better for you for $S^2$ to recommend cooperation, because if both players cooperate, that's better for you than if they both defect.
 Therefore $S^2$ recommends that you cooperate.
 
 The same reasoning applies the other player, so if both are $S^2$ theorists, the outcome is mutual cooperation.
 Parfit's argument that $S$ is collectively self-defeating does not go through for $S^2$.
 
+## How the theoretical issues with counterpossibles show up
+
+The problematic counterpossible implication in this scenario is: "if $S^2$ had recommended defction, then both players would have defected."
+It's problematic because it seems that we can make a valid argument from the premise to a contradiction.
+Assume the premise: suppose $S^2$ recommended defection.
+Then simply repeat the above argument that it recommends cooperation.
+Instead of considering a coherent possible world, we seem to be considering a contradiction.
+This is why counterpossibles present special problems that we don't get from counterfactuals.
+
 ## Conclusion
 
-$S^2$ is an instance of LDT.
-It is LDT applied to a selfish goal.
+I am hopeful that it is possible to formulate $S^2$ to the level of formality that we can consistently derive, from a description of the situation, that whatever $S^2$ recommends, both players would do.
+This is a hope I share with others who have worked on formal versions of the basic idea of LDT.
 
-We did not solve but avoided LDT's issue with counterfactuals.
-In this case, there was a counterfactual implication that if $S^2$ had recommended defection then both players would have defected.
-We have not explained what this means or derived it logically from a description of the situation.
-
-However, this example from Parfit's book is at least suggestive that LDT is big if true.
-When I got to this point in the book, I was thinking, okay, but what about something like $S^2$?
-And this is just the first place in the book where LDT seems to apply.
-
-I haven't really gotten far enough in the book to say the ultimate consequences of LDT for Parfit's central points.
+I haven't really gotten far enough in the book to say the ultimate consequences of this LDT-inspired move for Parfit's central points.
 But in any case, this was an application of LDT not to Newcomb's problem or the body of decision theory literature provoked by it, but to an argument from philosophy of independent interest.
