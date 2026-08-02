@@ -101,7 +101,7 @@ What we want from a fully specified version of $S^2$ is to be able to derive for
 
 Without a fully specified theory, I could only argue that $S^2$ results in mutual cooperation by simply assuming the needed counterpossible implications—putting them in by hand, rather than deriving them from our assumptions about the prisoner's dilemma and the definition of $S^2$.
 
-I think it's worth trying to solve or avoid the issues with counterpossibles, even though I don't believe in what you might call the looser applications of LDT, such as to [voting](https://www.lesswrong.com/w/logical-decision-theories?lens=introduction-to-logical-decision-theory-for-economists#Voting).
+I think it's worth trying to solve or avoid the issues with counterpossibles, even though I don't believe in the looser applications of LDT, such as to [voting](https://www.lesswrong.com/w/logical-decision-theories?lens=introduction-to-logical-decision-theory-for-economists#Voting).
 
 I think it's interesting that the basic idea of LDT applies unambiguously to this argument of Parfit's, since the players are assumed to be deriving their recommendations from the exact same theory.
 
