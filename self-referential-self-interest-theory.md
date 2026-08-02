@@ -14,7 +14,7 @@ The central example is Newcomb's problem.
 
 But Newcomb's problem sounds like a science fiction story, and I'm not convinced by [the case that analogous problems are part of our normal social lives](https://www.lesswrong.com/posts/puutBJLWbg2sXpFbu/newcomblike-problems-are-the-norm).
 
-That's the context for the observation I want to share: that I was reading Derek Parfit's _Reasons and Person's_, and LDT seemed like an important missing piece in one of his arguments.
+That's the context for the observation I want to share: that I was reading Derek Parfit's _Reasons and Persons_, and LDT seemed like an important missing piece in one of his arguments.
 It's not an application of LDT in real life, but it's an application to philosophical argumentation.
 
 Derek Parfit's book describes a variety of theories of morality and rationality, and defines certain properties of these theories.
@@ -35,13 +35,13 @@ What's special about this argument is that it is the first argument in the bookâ
 
 ## The argument: S in the prisoner's dilemma
 
-The argument that $S$ is collectively self-defeating begins by considering two $S$ theorists in a prisoner's dilemma, with whichI assume you are familiar.
+The argument that $S$ is collectively self-defeating begins by considering two $S$ theorists in a prisoner's dilemma, with which I assume you are familiar.
 
 $S$ recommends defection, since you cannot affect what your opponent does, and regardless of what they do, it is better to defect.
 
 Therefore both players defect, and each player is worse off than they would have been if they had both cooperated.
 
-$S$ is collectively self-defeating, since by following $S$'s recommendation to defect, both players have done worse by their $S$-given aim then if they had both cooperated.
+$S$ is collectively self-defeating, since by following $S$'s recommendation to defect, both players have done worse by their $S$-given aim than if they had both cooperated.
 
 Is it so clear that they both defect?
 Let's concede that they do.
@@ -60,14 +60,14 @@ Let's consider a prisoner's dilemma between $S^2$ theorists, and assume that the
 What does $S^2$ recommend?
 
 Let's suppose, now, that if $S^2$ recommends an action, then both players will take that action.
-I would like to say that this follows from the definition of $S^2$ and the symmetry of the prisoners dilemma, that is, that it looks the same from the perspective of each player.
+I would like to say that this follows from the definition of $S^2$ and the symmetry of the prisoner's dilemma: that is, that the game looks the same from the perspective of each player.
 It is at this point that I have to admit that because I have no logically consistent formal theory, I cannot logically show this follows.
 Consider it instead a desired property of a future theory.
 
 But assuming that whatever $S^2$ recommends both players will do, it is better for you for $S^2$ to recommend cooperation, because if both players cooperate, that's better for you than if they both defect.
 Therefore $S^2$ recommends that you cooperate.
 
-The same reasoning applies the other player, so if both are $S^2$ theorists, the outcome is mutual cooperation.
+The same reasoning applies to the other player, so if both are $S^2$ theorists, the outcome is mutual cooperation.
 Parfit's argument that $S$ is collectively self-defeating does not go through for $S^2$.
 
 ## How the theoretical issues with counterpossibles show up
