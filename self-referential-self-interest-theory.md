@@ -96,12 +96,8 @@ What we want from a fully specified version of $S^2$ is to be able to derive for
 
 Without a fully specified theory, I could only argue that $S^2$ results in mutual cooperation by simply assuming the needed counterpossible implications—putting them in by hand, rather than deriving them from our assumptions about the prisoner's dilemma and the definition of $S^2$.
 
+I think it's worth trying to solve or avoid the issues with counterpossibles, even though I don't believe in what you might call the looser applications of LDT, such as to [voting](https://www.lesswrong.com/w/logical-decision-theories?lens=introduction-to-logical-decision-theory-for-economists#Voting).
 
-I do think it's possible to solve or avoid the issues with counterpossibles, as do others who have worked on formal versions of LDT.
-And I think the theoretical effort is worth it, even though I don't believe in what you might call the looser applications of logical decision theory, such as to [voting](https://www.lesswrong.com/w/logical-decision-theories?lens=introduction-to-logical-decision-theory-for-economists#Voting).
+I think it's interesting that for this argument of Parfit's the basic idea of LDT applies unambiguously, since the players are assumed to be deriving their recommendations from the exact same theory.
 
-Parfit's argument above is the first but not the only place in _Reasons and Persons_ where, to a reader familiar with LDT, he seems to be missing something.
-I haven't really gotten far enough in the book to say what the ultimate consequences are for Parfit's central points.
-
-But I think it's interesting that for this argument of Parfit's the basic idea of LDT applies unambiguously, since the players are assumed to be deriving their recommendations from the exact same theory.
 And furthermore, I think it's interesting that we aren't talking about Newcomb's problem or the body of decision theory literature provoked by it, but an argument from philosophy of independent interest.
