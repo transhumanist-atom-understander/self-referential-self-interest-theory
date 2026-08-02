@@ -1,7 +1,7 @@
 A _logical decision theory_ [recommends that you choose as if deciding the output of your decision algorithm](https://www.lesswrong.com/w/logical-decision-theories?lens=introduction-to-logical-decision-theory-for-analytic#Logical_decision_theory).
 
 The main difficulty in formulating a logical decision theory is how to define statements like: "If my algorithm outputs this, the result will be that".
-These look like counterfactual implications, but counterfactuals describe possible worlds with different contingent facts, whereas here we are considering if a logical fact was different.
+These look like counterfactual implications, but counterfactuals describe possible worlds with different contingent facts, whereas here we are considering if a logical fact were different.
 Much theoretical work has gone into elaborating this kind of _counterpossible_ implication, without, in my opinion, satisfactory results.
 
 But what's the point of this theoretical work?
@@ -61,7 +61,7 @@ What does $S^2$ recommend?
 
 Let's suppose, now, that if $S^2$ recommends an action, then both players will take that action.
 I would like to say that this follows from the definition of $S^2$ and the symmetry of the prisoner's dilemma: that is, that the game looks the same from the perspective of each player.
-It is at this point that I have to admit that because I have no logically consistent formal theory, I cannot logically show this follows.
+It is at this point that I have to admit that because I have no logically consistent formal theory, I cannot logically show that this follows.
 I can only say that this is how we want $S^2$ to behave, and leave it to the future to fully specify a theory with this behavior.
 
 Assuming, then, that whatever $S^2$ recommends both players will do, it is better for you for $S^2$ to recommend cooperation, because if both players cooperate, that's better for you than if they both defect.
