@@ -61,14 +61,16 @@ What does $S^2$ recommend?
 
 Let's suppose, now, that if $S^2$ recommends an action, then both players will take that action.
 I would like to say that this follows from the definition of $S^2$ and the symmetry of the prisoner's dilemma: that is, that the game looks the same from the perspective of each player.
-It is at this point that I have to admit that because I have no logically consistent formal theory, I cannot logically show that this follows.
-I can only say that this is how we want $S^2$ to behave, and leave it to the future to fully specify a theory with this behavior.
+But I can't—I can't specify $S^2$ at the level of formality required to make such an inference.
 
-Assuming, then, that whatever $S^2$ recommends both players will do, it is better for you for $S^2$ to recommend cooperation, because if both players cooperate, that's better for you than if they both defect.
-Therefore $S^2$ recommends that you cooperate.
+But assuming that whatever $S^2$ recommends both players will do, it is better for you for $S^2$ to recommend cooperation.
+Because if $S^2$ recommended defection, then both players would defect, which would be worse for you than if both players cooperate.
 
-The same reasoning applies to the other player, so if both are $S^2$ theorists, the outcome is mutual cooperation.
-Parfit's argument that $S$ is collectively self-defeating does not go through for $S^2$.
+Since it is better for you for $S^2$ to recommend cooperation, that's what $S^2$ recommends.
+And therefore what both players do, so the outcome is mutual cooperation.
+
+That's why Parfit's argument that $S$ is collectively self-defeating does not go through for $S^2$.
+Assuming, as we did, that whatever $S^2$ recommends, both players do—and if it had recommended otherwise, then both players would have done that instead.
 
 ## How the theoretical issues with counterpossibles show up
 
