@@ -84,7 +84,7 @@ But it's problematic because, if $S^2$'s recommendation is a logical consequence
 To see the contradiction clearly, first, let's assume that we have some valid argument $A$ that $S^2$ recommends cooperation.
 Now, imagine another argument $B$ which begins with the premise that $S^2$ recommends defection.
 Insert after that premise all the steps of argument $A$, ending with the statement that $S^2$ recommends cooperation.
-Now, together with the premise, $B$ concludes that that $S^2$ recommends defection and that it recommends cooperation.
+With that in conjunction with the premise, $B$ concludes that that $S^2$ recommends defection and that it recommends cooperation.
 $B$, then, is a valid argument from the premise to a contradiction.
 
 If we cannot consistently reason from the premise that $S^2$ recommends defection, how can we assert what would happen in that case?
