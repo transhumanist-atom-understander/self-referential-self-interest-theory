@@ -62,9 +62,9 @@ What does $S^2$ recommend?
 Let's suppose, now, that if $S^2$ recommends an action, then both players will take that action.
 I would like to say that this follows from the definition of $S^2$ and the symmetry of the prisoner's dilemma: that is, that the game looks the same from the perspective of each player.
 It is at this point that I have to admit that because I have no logically consistent formal theory, I cannot logically show this follows.
-Consider it instead a desired property of a future theory.
+I can only say that this is how we want $S^2$ to behave, and leave it to the future to fully specify a theory with this behavior.
 
-But assuming that whatever $S^2$ recommends both players will do, it is better for you for $S^2$ to recommend cooperation, because if both players cooperate, that's better for you than if they both defect.
+Assuming, then, that whatever $S^2$ recommends both players will do, it is better for you for $S^2$ to recommend cooperation, because if both players cooperate, that's better for you than if they both defect.
 Therefore $S^2$ recommends that you cooperate.
 
 The same reasoning applies to the other player, so if both are $S^2$ theorists, the outcome is mutual cooperation.
