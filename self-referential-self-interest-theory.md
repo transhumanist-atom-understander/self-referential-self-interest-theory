@@ -64,7 +64,7 @@ I would like to say that this follows from the definition of $S^2$ and the symme
 But I can't—I can't specify $S^2$ at the level of formality required to make such an inference.
 
 But assuming that whatever $S^2$ recommends both players will do, it is better for you for $S^2$ to recommend cooperation.
-Because if $S^2$ recommended defection, then both players would defect, which would be worse for you than if both players cooperate.
+Because that leads to mutual cooperation, whereas if $S^2$ recommended defection, the result would be mutual defection, which is worse for you.
 
 Since it is better for you for $S^2$ to recommend cooperation, that's what $S^2$ recommends.
 And therefore what both players do, so the outcome is mutual cooperation.
