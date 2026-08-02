@@ -30,7 +30,9 @@ What we need to know about $S$ is that it prescribes an aim, which is that your 
 
 Parfit argues that $S$ has the property of being _collectively self-defeating_: that is, if we all follow $S$, then we will do worse by our $S$-given aim than if we had all taken other actions.
 
-We shouldn't exaggerate the significance of this conclusion in the book: Parfit does not say that you should reject theories for being collectively self-defeating.
+(Actually, _directly_ collectively self-defeating, but I'll skip that distinction.)
+
+Maybe being collective self-defeating is fine—Parfit does not say it's grounds for rejecting $S$.
 What's special about this argument is that it is the first argument in the book—not the most important one—where an LDT-inspired move goes somewhere interesting.
 
 ## The argument: S in the prisoner's dilemma
@@ -74,18 +76,18 @@ Assuming, as we did, that whatever $S^2$ recommends, both players do—and if it
 
 ## How the theoretical issues with counterpossibles show up
 
-The problematic counterpossible implication in this scenario is: "if $S^2$ had recommended defection, then both players would have defected."
+The problematic counterpossible implication in this scenario the statement: "if $S^2$ had recommended defection, then both players would have defected."
 
 We can't avoid this statement.
 That $S^2$ recommending defection would lead to mutual defection is why it recommends cooperation.
 
-But it's problematic because, if $S^2$'s recommendation is a logical consequence of its definition, then it is contradictory to assume a different recommendation.
+But it's problematic because, if $S^2$'s recommendation is a logical consequence of its definition, then we cannot consistently derive the consequences of a different recommendation.
 
-To see the contradiction clearly, first, let's assume that we have some valid argument $A$ that $S^2$ recommends cooperation.
+To see the contradiction clearly: first, assume that you have some valid argument $A$ that $S^2$ recommends cooperation.
 Now, imagine another argument $B$ which begins with the premise that $S^2$ recommends defection.
 Insert after that premise all the steps of argument $A$, ending with the statement that $S^2$ recommends cooperation.
 With that in conjunction with the premise, $B$ concludes that that $S^2$ recommends defection and that it recommends cooperation.
-$B$, then, is a valid argument from the premise to a contradiction.
+$B$, then, is a valid argument from its premise to a contradiction.
 
 If we cannot consistently reason from the premise that $S^2$ recommends defection, how can we assert what would happen in that case?
 Or, considering the principle of explosion, how can we avoid asserting everything: that if $S^2$ recommends defection then both players defect, and both cooperate, and get invitation letters from Hogwarts?
@@ -97,7 +99,7 @@ There is not just a fact but a logical argument contradicting the premise.
 
 I hope the previous section helped you see why it's not easy to fully specify $S^2$.
 
-What we want from a fully specified version of $S^2$ is to be able to derive for each action that if $S^2$ recommends that action, then both players will take it—and if it doesn't recommend the action, that if it _had_, then both players _would_ have taken it.
+What we want from a fully specified version of $S^2$ is to be able to derive for each action that, if $S^2$ recommends that action, then both players will take it—and if it doesn't recommend the action, that if it _had_, then both players _would_ have taken it.
 
 Without a fully specified theory, I could only argue that $S^2$ results in mutual cooperation by simply assuming the needed counterpossible implications—putting them in by hand, rather than deriving them from our assumptions about the prisoner's dilemma and the definition of $S^2$.
 
