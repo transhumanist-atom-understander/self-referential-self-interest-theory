@@ -98,6 +98,6 @@ Without a fully specified theory, I could only argue that $S^2$ results in mutua
 
 I think it's worth trying to solve or avoid the issues with counterpossibles, even though I don't believe in what you might call the looser applications of LDT, such as to [voting](https://www.lesswrong.com/w/logical-decision-theories?lens=introduction-to-logical-decision-theory-for-economists#Voting).
 
-I think it's interesting that for this argument of Parfit's the basic idea of LDT applies unambiguously, since the players are assumed to be deriving their recommendations from the exact same theory.
+I think it's interesting that for the basic idea of LDT applies unambiguously to argument of Parfit's, since the players are assumed to be deriving their recommendations from the exact same theory.
 
 And furthermore, I think it's interesting that we aren't talking about Newcomb's problem or the body of decision theory literature provoked by it, but an argument from philosophy of independent interest.
