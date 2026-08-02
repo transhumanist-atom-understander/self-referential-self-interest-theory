@@ -90,8 +90,10 @@ A counterpossible like this presents more serious issues than an ordinary counte
 
 ## Conclusion
 
-I am hopeful that it is possible to formulate $S^2$ to the level of formality that we can consistently derive, from a description of the situation, that whatever $S^2$ recommends, both players would do.
-This is a hope I share with others who have worked on formal versions of the basic idea of LDT.
+I actually think it's possible to solve or avoid the issues with counterpossibles, as do others who have worked on formal versions of LDT.
+I hope the previous section helps you see why it's not obvious or easy how to make it work, but I also hope that the application to Parfit's argument helps indicate why I think the theoretical effort is worth it, even though I don't believe in what you might call the looser applications of logical decision theory, such as to [voting](https://www.lesswrong.com/w/logical-decision-theories?lens=introduction-to-logical-decision-theory-for-economists#Voting).
 
-I haven't really gotten far enough in the book to say the ultimate consequences of this LDT-inspired move for Parfit's central points.
-But in any case, this was an application of LDT not to Newcomb's problem or the body of decision theory literature provoked by it, but to an argument from philosophy of independent interest.
+The argument explained above is the first but not the only place in Parfit's book where, to a reader familiar with LDT, something seems to be missing.
+I haven't really gotten far enough in the book to say the ultimate consequences for Parfit's central points.
+But I think it's interesting that, unlike the loose examples like voting, the basic idea of LDT applies unambiguously, since the players are assumed to be using the same theory.
+And furthermore, that we aren't talking about Newcomb's problem or the body of decision theory literature provoked by it, but an argument from philosophy of independent interest.
