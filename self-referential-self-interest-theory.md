@@ -84,6 +84,8 @@ Now, imagine an another argument beginning with the premise of our problematic c
 Insert after that premise all the steps of argument $A$.
 Now, you have a valid argument from the premise to a contradiction.
 
+How, then, can we have any implication with the premise "If $S^2$ had recommended defection..."?
+A counterpossible like this presents more serious issues than an ordinary counterfactual, since there is not just a fact but a logical argument contradicting the premise.
 
 ## Conclusion
 
