@@ -73,11 +73,17 @@ Parfit's argument that $S$ is collectively self-defeating does not go through fo
 ## How the theoretical issues with counterpossibles show up
 
 The problematic counterpossible implication in this scenario is: "if $S^2$ had recommended defection, then both players would have defected."
-It's problematic because it seems that we can make a valid argument from the premise to a contradiction.
-Assume the premise: suppose $S^2$ recommended defection.
-Then simply repeat the above argument that it recommends cooperation.
-Instead of considering a coherent possible world, we seem to be considering a contradiction.
-This is why counterpossibles present special problems that we don't get from counterfactuals.
+
+We can't avoid this statement.
+That $S^2$ recommending defection would lead to mutual defection is why it recommends cooperation.
+
+But it's problematic because, if $S^2$'s recommendation is a logical consequence of its definition, then it is contradictory to assume a different recommendation.
+
+To see the contradiction clearly, first, let's assume that we have some valid argument $A$ that $S^2$ recommends cooperation.
+Now, imagine an another argument beginning with the premise of our problematic counterpossible: that $S^2$ recommends defection.
+Insert after that premise all the steps of argument $A$.
+Now, you have a valid argument from the premise to a contradiction.
+
 
 ## Conclusion
 
