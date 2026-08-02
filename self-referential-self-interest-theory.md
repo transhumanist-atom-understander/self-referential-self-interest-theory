@@ -80,9 +80,10 @@ That $S^2$ recommending defection would lead to mutual defection is why it recom
 But it's problematic because, if $S^2$'s recommendation is a logical consequence of its definition, then it is contradictory to assume a different recommendation.
 
 To see the contradiction clearly, first, let's assume that we have some valid argument $A$ that $S^2$ recommends cooperation.
-Now, imagine an another argument beginning with the premise of our problematic counterpossible: that $S^2$ recommends defection.
-Insert after that premise all the steps of argument $A$.
-Now, you have a valid argument from the premise to a contradiction.
+Now, imagine another argument $B$ beginning with the premise of our problematic counterpossible: that $S^2$ recommends defection.
+Insert after that premise all the steps of argument $A$, ending with the statement that $S^2$ recommends cooperation.
+Now, together with our premise, we have that $S^2$ recommends defection and that it recommends cooperation.
+$B$, then, is a valid argument from the premise to a contradiction.
 
 How, then, can we have any implication with the premise "If $S^2$ had recommended defection..."?
 A counterpossible like this presents more serious issues than an ordinary counterfactual, since there is not just a fact but a logical argument contradicting the premise.
