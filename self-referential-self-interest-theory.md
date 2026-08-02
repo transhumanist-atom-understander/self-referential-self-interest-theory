@@ -30,7 +30,7 @@ What we need to know about $S$ is that it prescribes an aim, which is that your 
 
 Parfit argues that $S$ has the property of being _collectively self-defeating_: that is, if we all follow $S$, then we will do worse by our $S$-given aim than if we had all taken other actions.
 
-(Actually, _directly_ collectively self-defeating, but I'll skip that distinction.)
+(Actually, _directly_ collectively self-defeating, but I'll skip Parfit's distinction between direct and indirect.)
 
 Maybe being collectively self-defeating is fine—Parfit does not say it's grounds for rejecting $S$.
 What's special about this argument is that it is the first argument in the book—not the most important one—where an LDT-inspired move goes somewhere interesting.
