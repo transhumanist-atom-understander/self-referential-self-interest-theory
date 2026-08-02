@@ -1,4 +1,4 @@
-[A _logical decision theory_ recommends that you choose as if deciding the output of your decision algorithm](https://www.lesswrong.com/w/logical-decision-theories?lens=introduction-to-logical-decision-theory-for-analytic#Logical_decision_theory).
+A _logical decision theory_ [recommends that you choose as if deciding the output of your decision algorithm](https://www.lesswrong.com/w/logical-decision-theories?lens=introduction-to-logical-decision-theory-for-analytic#Logical_decision_theory).
 
 The main difficulty in formulating a logical decision theory is how to define statements like: "If my algorithm outputs this, the result will be that".
 These look like counterfactual implications, but counterfactuals describe possible worlds with different contingent facts, whereas here we are considering if a logical fact was different.
@@ -73,7 +73,7 @@ Parfit's argument that $S$ is collectively self-defeating does not go through fo
 
 ## How the theoretical issues with counterpossibles show up
 
-The problematic counterpossible implication in this scenario is: "if $S^2$ had recommended defction, then both players would have defected."
+The problematic counterpossible implication in this scenario is: "if $S^2$ had recommended defection, then both players would have defected."
 It's problematic because it seems that we can make a valid argument from the premise to a contradiction.
 Assume the premise: suppose $S^2$ recommended defection.
 Then simply repeat the above argument that it recommends cooperation.
