@@ -32,7 +32,7 @@ Parfit argues that $S$ has the property of being _collectively self-defeating_: 
 
 (Actually, _directly_ collectively self-defeating, but I'll skip that distinction.)
 
-Maybe being collective self-defeating is fine—Parfit does not say it's grounds for rejecting $S$.
+Maybe being collectively self-defeating is fine—Parfit does not say it's grounds for rejecting $S$.
 What's special about this argument is that it is the first argument in the book—not the most important one—where an LDT-inspired move goes somewhere interesting.
 
 ## The argument: S in the prisoner's dilemma
@@ -76,7 +76,7 @@ Assuming, as we did, that whatever $S^2$ recommends, both players do—and if it
 
 ## How the theoretical issues with counterpossibles show up
 
-The problematic counterpossible implication in this scenario the statement: "if $S^2$ had recommended defection, then both players would have defected."
+The problematic counterpossible implication in this scenario is the statement: "if $S^2$ had recommended defection, then both players would have defected."
 
 We can't avoid this statement.
 That $S^2$ recommending defection would lead to mutual defection is why it recommends cooperation.
@@ -86,7 +86,7 @@ But it's problematic because, if $S^2$'s recommendation is a logical consequence
 To see the contradiction clearly: first, assume that you have some valid argument $A$ that $S^2$ recommends cooperation.
 Now, imagine another argument $B$ which begins with the premise that $S^2$ recommends defection.
 Insert after that premise all the steps of argument $A$, ending with the statement that $S^2$ recommends cooperation.
-With that in conjunction with the premise, $B$ concludes that that $S^2$ recommends defection and that it recommends cooperation.
+With that in conjunction with the premise, $B$ concludes that $S^2$ recommends defection and that it recommends cooperation.
 $B$, then, is a valid argument from its premise to a contradiction.
 
 If we cannot consistently reason from the premise that $S^2$ recommends defection, how can we assert what would happen in that case?
