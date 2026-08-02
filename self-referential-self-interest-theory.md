@@ -35,14 +35,13 @@ What's special about this argument is that it is the first argument in the bookâ
 
 ## The argument: S in the prisoner's dilemma
 
-The argument that $S$ is collectively self-defeating begins by considering two $S$ theorists in a prisoner's dilemma.
-I assume you're familiar with the prisoner's dilemma, but there's two main things we're going to need to remember about it.
-One is that the payoffs are such that it's better for you to defect regardless of what your opponent does, but both players defecting is worse for you than if both players cooperate.
-And the other thing we're going to need to remember is that you can't affect what your opponent does.
+The argument that $S$ is collectively self-defeating begins by considering two $S$ theorists in a prisoner's dilemma, with whichI assume you are familiar.
 
-Following $S$'s recommendation to take the action that's better for them, both players defect.
-Thus they have done worse according to their $S$-given aim than if they had both cooperated.
-Therefore, $S$ is collectively self-defeating.
+$S$ recommends defection, since you cannot affect what your opponent does, and regardless of what they do, it is better to defect.
+
+Therefore both players defect, and each player is worse off than they would have been if they had both cooperated.
+
+$S$ is collectively self-defeating, since by following $S$'s recommendation to defect, both players have done worse by their $S$-given aim then if they had both cooperated.
 
 Is it so clear that they both defect?
 Let's concede that they do.
