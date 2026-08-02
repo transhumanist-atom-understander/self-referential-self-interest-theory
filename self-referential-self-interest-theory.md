@@ -1,4 +1,4 @@
-[A logical decision theory recommends that you choose as if deciding the output of your decision algorithm](https://www.lesswrong.com/w/logical-decision-theories?lens=introduction-to-logical-decision-theory-for-analytic#Logical_decision_theory).
+[A _logical decision theory_ recommends that you choose as if deciding the output of your decision algorithm](https://www.lesswrong.com/w/logical-decision-theories?lens=introduction-to-logical-decision-theory-for-analytic#Logical_decision_theory).
 
 The main difficulty in formulating a logical decision theory is how to define statements like: "If my algorithm outputs this, the result will be that".
 These look like counterfactual implications, but counterfactuals describe possible worlds with different contingent facts, whereas here we are considering if a logical fact was different.
@@ -20,15 +20,15 @@ It's not an application of LDT in real life, but it's an application to philosop
 Derek Parfit's book describes a variety of theories of morality and rationality, and defines certain properties of these theories.
 One property, the property of being "collectively self-defeating", is defined in terms of games where multiple players are deciding according to the same theory.
 Because each player faces an "environment" (the other player) which depends on the same theory they are using to decide, a philosophical move inspired by LDT yields interesting results.
-This provides an opportunity to apply the basic idea of LDT.
 
 ## The claim: S is collectively self-defeating
 
 The argument I'm going to repeat concerns the self-interest theory ($S$), which Parfit says is a theory of rationality.
 (Since this is LessWrong, I must add that he doesn't mean [what Yudkowsky means by "rationality"](https://www.lesswrong.com/posts/HcCpvYLoSFP4iAqSz/rationality-appreciating-cognitive-algorithms), but I don't think that's important for this argument.)
 
-What we need to know about $S$ is that it prescribes an aim, which is that your life go as well as possible, as well as what I'll call a policy: it recommends taking the actions that make your life go as well as possible.
-He argues that $S$ has the property of being collectively self-defeating, meaning that if we all follow $S$, then we will do worse by our $S$-given aim than if we had all taken other actions.
+What we need to know about $S$ is that it prescribes an aim, which is that your life go as well as possible, as well as what I'll call a policy: it recommends taking the actions that make your life go as well as possible, among the available alternatives.
+
+Parfit argues that $S$ has the property of being _collectively self-defeating_: that is, if we all follow $S$, then we will do worse by our $S$-given aim than if we had all taken other actions.
 
 We shouldn't exaggerate the significance of this conclusion in the book: Parfit does not say that you should reject theories for being collectively self-defeating.
 What's special about this argument is that it is the first argument in the book—not the most important one—where an LDT-inspired move went somewhere interesting.
@@ -54,7 +54,8 @@ The new theory, $S^2$, gives you the same aim as $S$, but a different policy.
 It recommends taking the action that it would be best for you for $S^2$ to recommend.
 
 I call this the self-referential self-interest theory.
-We could abbreviate that to $SS$; thus the cutesy name $S^2$, even though the $S$'s don't stand for the same thing.
+We could abbreviate that to $SS$.
+Thus the cutesy name $S^2$, even though the $S$'s don't stand for the same thing.
 
 Let's consider a prisoner's dilemma between $S^2$ theorists, and assume that they have common knowledge that they are both $S^2$ theorists.
 What does $S^2$ recommend?
