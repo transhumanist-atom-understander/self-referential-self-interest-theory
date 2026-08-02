@@ -31,7 +31,7 @@ What we need to know about $S$ is that it prescribes an aim, which is that your 
 Parfit argues that $S$ has the property of being _collectively self-defeating_: that is, if we all follow $S$, then we will do worse by our $S$-given aim than if we had all taken other actions.
 
 We shouldn't exaggerate the significance of this conclusion in the book: Parfit does not say that you should reject theories for being collectively self-defeating.
-What's special about this argument is that it is the first argument in the book—not the most important one—where an LDT-inspired move went somewhere interesting.
+What's special about this argument is that it is the first argument in the book—not the most important one—where an LDT-inspired move goes somewhere interesting.
 
 ## The argument: S in the prisoner's dilemma
 
@@ -94,6 +94,6 @@ I actually think it's possible to solve or avoid the issues with counterpossible
 I hope the previous section helps you see why it's not obvious or easy how to make it work, but I also hope that the application to Parfit's argument helps indicate why I think the theoretical effort is worth it, even though I don't believe in what you might call the looser applications of logical decision theory, such as to [voting](https://www.lesswrong.com/w/logical-decision-theories?lens=introduction-to-logical-decision-theory-for-economists#Voting).
 
 The argument explained above is the first but not the only place in Parfit's book where, to a reader familiar with LDT, something seems to be missing.
-I haven't really gotten far enough in the book to say the ultimate consequences for Parfit's central points.
+I haven't really gotten far enough in the book to say what the ultimate consequences are for Parfit's central points.
 But I think it's interesting that, unlike the loose examples like voting, the basic idea of LDT applies unambiguously, since the players are assumed to be using the same theory.
 And furthermore, that we aren't talking about Newcomb's problem or the body of decision theory literature provoked by it, but an argument from philosophy of independent interest.
