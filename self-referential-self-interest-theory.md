@@ -95,13 +95,18 @@ Or, considering the principle of explosion, how can we avoid asserting everythin
 That's why counterpossibles present more serious issues than ordinary counterfactuals.
 There is not just a fact but a logical argument contradicting the premise.
 
+## The gap in the argument about $S^2$
+
+If counterpossibles are nonsensical but unavoidable, then how did I derive that $S^2$ recommends cooperation?
+
+Well, remember, I did _not_ derive the key statement about $S^2$'s behavior.
+That is: for each action, if $S^2$ recommends that action, then both players will take it—or if it _had_ recommended it, then both players _would_ have taken it.
+
+I just said we would like to be able to derive that from the information given about the problem.
+But to derive it, we'd have to be clear about exactly what we mean by "if $S^2$ had recommended defection, then both players would have defected".
+As far as I can tell it is an unresolved question how to do that while avoiding the issues with counterpossibles described in the previous section.
+
 ## Conclusion
-
-I hope the previous section helped you see why it's not easy to fully specify $S^2$.
-
-What we want from a fully specified version of $S^2$ is to be able to derive for each action that, if $S^2$ recommends that action, then both players will take it—and if it doesn't recommend the action, that if it _had_, then both players _would_ have taken it.
-
-Without a fully specified theory, I could only argue that $S^2$ results in mutual cooperation by simply assuming the needed counterpossible implications—putting them in by hand, rather than deriving them from our assumptions about the prisoner's dilemma and the definition of $S^2$.
 
 I think it's worth trying to solve or avoid the issues with counterpossibles, even though I don't believe in the looser applications of LDT, such as to [voting](https://www.lesswrong.com/w/logical-decision-theories?lens=introduction-to-logical-decision-theory-for-economists#Voting).
 
