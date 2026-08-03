@@ -23,7 +23,7 @@ Because each player faces an "environment" (the other player) which depends on t
 
 ## The claim: S is collectively self-defeating
 
-The argument I'm going to repeat concerns the self-interest theory ($S$), which Parfit says is a theory of rationality.
+I'm going to repeat an argument that Derek Parfit made about the self-interest theory ($S$), which he says is a theory of rationality.
 (Since this is LessWrong, I must add that he doesn't mean [what Yudkowsky means by "rationality"](https://www.lesswrong.com/posts/HcCpvYLoSFP4iAqSz/rationality-appreciating-cognitive-algorithms), but I don't think that's important for this argument.)
 
 What we need to know about $S$ is that it prescribes an aim, which is that your life go as well as possible, as well as what I'll call a policy: it recommends taking the actions that make your life go as well as possible, among the available alternatives.
@@ -47,7 +47,7 @@ $S$ is collectively self-defeating, since by following $S$'s recommendation to d
 
 Is it so clear that they both defect?
 Let's concede that they do.
-I'm going to try to apply the basic principle of LDT not by disputing this argument about $S$, but by proposing a new theory, a modification of $S$.
+I'm going to apply the basic principle of LDT not by disputing this argument about $S$, but by proposing a new theory, a modification of $S$.
 
 ## The self-referential self-interest theory S²
 
@@ -78,8 +78,8 @@ Assuming, as we did, that whatever $S^2$ recommends, both players do—and if it
 
 The problematic counterpossible implication in this scenario is the statement: "if $S^2$ had recommended defection, then both players would have defected."
 
-We can't avoid this statement.
-That $S^2$ recommending defection would lead to mutual defection is why it recommends cooperation.
+We can't do without this statement.
+It's why $S^2$ recommends cooperation.
 
 But it's problematic because, if $S^2$'s recommendation is a logical consequence of its definition, then we cannot consistently derive the consequences of a different recommendation.
 
@@ -90,7 +90,7 @@ With that in conjunction with the premise, $B$ concludes that $S^2$ recommends d
 $B$, then, is a valid argument from its premise to a contradiction.
 
 If we cannot consistently reason from the premise that $S^2$ recommends defection, how can we assert what would happen in that case?
-Or, considering the principle of explosion, how can we avoid asserting everything: that if $S^2$ recommends defection then both players defect, and both cooperate, and get invitation letters from Hogwarts?
+Or, considering the principle of explosion, how can we avoid asserting everything: that if $S^2$ recommends defection then both players defect, and they cooperate, and get invitation letters from Hogwarts?
 
 That's why counterpossibles present more serious issues than ordinary counterfactuals.
 There is not just a fact but a logical argument contradicting the premise.
