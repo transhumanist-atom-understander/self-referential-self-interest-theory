@@ -108,7 +108,7 @@ As far as I can tell it is an unresolved question how to do that while avoiding 
 
 ## Conclusion
 
-I think it's worth trying to solve or avoid the issues with counterpossibles, even though I don't believe in the looser applications of LDT, such as to [voting](https://www.lesswrong.com/w/logical-decision-theories?lens=introduction-to-logical-decision-theory-for-economists#Voting).
+I think it's worth trying to solve or avoid the issues with counterpossibles, even though I'm not convinced of the looser applications of LDT, such as to [voting](https://www.lesswrong.com/w/logical-decision-theories?lens=introduction-to-logical-decision-theory-for-economists#Voting).
 
 I think it's interesting that the basic idea of LDT applies unambiguously to this argument of Parfit's, since the players are assumed to be deriving their recommendations from the exact same theory.
 
