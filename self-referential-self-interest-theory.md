@@ -1,7 +1,8 @@
 A _logical decision theory_ [recommends that you choose as if deciding the output of your decision algorithm](https://www.lesswrong.com/w/logical-decision-theories?lens=introduction-to-logical-decision-theory-for-analytic#Logical_decision_theory).
 
 The main difficulty in formulating a logical decision theory is how to define statements like: "If my algorithm outputs this, the result will be that".
-These look like counterfactual implications, but counterfactuals describe possible worlds with different contingent facts, whereas here we are considering if a logical fact were different.
+These look like counterfactual implications, but counterfactuals describe possible worlds with different contingent facts.
+But what our decision algorithm outputs (with given input) is a logical fact, and it is not clear what it means to say what would happen if a logical fact were different.
 Much theoretical work has gone into elaborating this kind of _counterpossible_ implication, without, in my opinion, satisfactory results.
 
 But what's the point of this theoretical work?
@@ -9,7 +10,7 @@ Do we really need LDT?
 
 What's the difference between choosing the output of your decision algorithm and just making a choice?
 There is no difference, as long as your choice is the only thing in the world that depends on your decision algorithm.
-Substantial applications of LDT are games where the player's environment contains some other implementation of the algorithm.
+The only substantial applications of LDT are games where the player's environment contains some other implementation of the algorithm.
 The central example is Newcomb's problem.
 
 But Newcomb's problem sounds like a science fiction story, and I'm not convinced by [the case that analogous problems are part of our normal social lives](https://www.lesswrong.com/posts/puutBJLWbg2sXpFbu/newcomblike-problems-are-the-norm).
