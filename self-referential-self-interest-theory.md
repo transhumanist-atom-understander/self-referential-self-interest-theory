@@ -73,7 +73,7 @@ If $S^2$ recommends that you defect, then both players defect.
 Whereas if $S^2$ recommends that you cooperate, then both players cooperate.
 This is better for you than if both players defect, so $S^2$ recommends that you cooperate.
 
-Therefore the outcome is mutual cooperation, and Parfit's argument that $S$ is collectively self defeating doesn't go through for $S^2$.
+Therefore the outcome is mutual cooperation, and Parfit's argument that $S$ is collectively self-defeating doesn't go through for $S^2$.
 
 Which sounds cool, but let's not forget that we don't really have a theory $S^2$, but a wishlist for it.
 
