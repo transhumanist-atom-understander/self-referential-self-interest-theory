@@ -2,7 +2,7 @@ A _logical decision theory_ [recommends that you choose as if deciding the outpu
 
 The main difficulty in formulating a logical decision theory is how to define statements like: "If my algorithm outputs this, the result will be that".
 These look like counterfactual implications, but counterfactuals describe possible worlds with different contingent facts.
-But what our decision algorithm outputs (with given input) is a logical fact, and it is not clear what it means to say what would happen if a logical fact were different.
+What our decision algorithm outputs (with given input) is a logical fact, and it is not clear what it means to say what would happen if a logical fact were different.
 Much theoretical work has gone into elaborating this kind of _counterpossible_ implication, without, in my opinion, satisfactory results.
 
 But what's the point of this theoretical work?
@@ -75,19 +75,15 @@ This is better for you than if both players defect, so $S^2$ recommends that you
 
 Therefore the outcome is mutual cooperation, and Parfit's argument that $S$ is collectively self-defeating doesn't go through for $S^2$.
 
-Which sounds cool, but let's not forget that we don't really have a theory $S^2$, but a wishlist for it.
-
 ## Where can we get S²'s counterpossibles?
 
-Why assume that whatever $S^2$ recommends, both players will do?
+But why assume that whatever $S^2$ recommends, both players will do (and that if it had recommended otherwise, then both players would have done that instead)?
 Because the prisoner's dilemma is symmetrical: it looks the same from the perspective of each player.
 So both players should get the same recommendation from $S^2$.
 And since they're both $S^2$ theorists, they both follow that recommendation.
 
-That's the argument we want to make, but is it really possible to fully specify a theory $S^2$ where this argument works?
-To logically derive these counterpossibles, we would need some logic of counterpossible statements.
-Explaining how to reason about counterpossibles is the main theoretical difficulty for logical decision theory.
-Let's see how the difficulty with counterpossibles manifests in this problem.
+We want that reasoning to go through, but it seems hard for any formal theory to work like that.
+Let's see how the theoretical difficulty with counterpossibles manifests in this problem.
 
 ## The problematic counterpossible for S² in the prisoner's dilemma
 
@@ -96,7 +92,7 @@ The problematic counterpossible implication in this scenario is the statement: "
 We can't do without this statement.
 It's why $S^2$ recommends cooperation.
 
-But it's problematic because if cooperation logically follows from our assumptions about the prisoner's dilemma and $S^2$, then we cannot consistently consider a hypothetical recommendation of defection.
+But it's problematic because if cooperation logically follows from our assumptions about the prisoner's dilemma and $S^2$, then we cannot consistently reason from the premise that $S^2$ recommends defection.
 
 To see the inconsistency clearly: first, assume that you have some valid argument $A$ that $S^2$ recommends cooperation.
 Now, imagine another argument $B$ which begins with the premise that $S^2$ recommends defection.
