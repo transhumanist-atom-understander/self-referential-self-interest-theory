@@ -62,29 +62,43 @@ Thus the cutesy name $S^2$, even though the $S$'s don't stand for the same thing
 Let's consider a prisoner's dilemma between $S^2$ theorists, and assume that they have common knowledge that they are both $S^2$ theorists.
 What does $S^2$ recommend?
 
-Let's suppose, now, that if $S^2$ recommends an action, then both players will take that action.
-I would like to say that this follows from the definition of $S^2$ and the symmetry of the prisoner's dilemma: that is, that the game looks the same from the perspective of each player.
-But I can't—I can't specify $S^2$ at the level of formality required to make such an inference.
+## S² recommends cooperation if we assume the right counterpossibles
 
-But assuming that whatever $S^2$ recommends both players will do, it is better for you for $S^2$ to recommend cooperation.
-Because that leads to mutual cooperation, whereas if $S^2$ recommended defection, the result would be mutual defection, which is worse for you.
+Assume that for each action, if $S^2$ recommends that action, then both players will take it.
+Or, if it _had_ recommended it, then both players _would_ have taken it.
+These are the counterpossible implications we need for this problem.
 
-Since it is better for you for $S^2$ to recommend cooperation, that's what $S^2$ recommends.
-And therefore what both players do, so the outcome is mutual cooperation.
+If we have these counterpossibles, it's straightforward to derive $S^2$'s recommendation.
+If $S^2$ recommends that you defect, then both players defect.
+Whereas if $S^2$ recommends that you cooperate, then both players cooperate.
+This is better for you than if both players defect, so $S^2$ recommends that you cooperate.
 
-That's why Parfit's argument that $S$ is collectively self-defeating does not go through for $S^2$.
-Assuming, as we did, that whatever $S^2$ recommends, both players do—and if it had recommended otherwise, then both players would have done that instead.
+Therefore the outcome is mutual cooperation, and Parfit's argument that $S$ is collectively self defeating doesn't go through for $S^2$.
 
-## How the theoretical issues with counterpossibles show up
+Which sounds cool, but let's not forget that we don't really have a theory $S^2$, but a wishlist for it.
+
+## Where can we get S²'s counterpossibles?
+
+Why assume that whatever $S^2$ recommends, both players will do?
+Because the prisoner's dilemma is symmetrical: it looks the same from the perspective of each player.
+So both players should get the same recommendation from $S^2$.
+And since they're both $S^2$ theorists, they both follow that recommendation.
+
+That's the argument we want to make, but is it really possible to fully specify a theory $S^2$ where this argument works?
+To logically derive these counterpossibles, we would need some logic of counterpossible statements.
+Explaining how to reason about counterpossibles is the main theoretical difficulty for logical decision theory.
+Let's see how the difficulty with counterpossibles manifests in this problem.
+
+## The problematic counterpossible for S² in the prisoner's dilemma
 
 The problematic counterpossible implication in this scenario is the statement: "if $S^2$ had recommended defection, then both players would have defected."
 
 We can't do without this statement.
 It's why $S^2$ recommends cooperation.
 
-But it's problematic because, if $S^2$'s recommendation is a logical consequence of its definition, then we cannot consistently derive the consequences of a different recommendation.
+But it's problematic because if cooperation logically follows from our assumptions about the prisoner's dilemma and $S^2$, then we cannot consistently consider a hypothetical recommendation of defection.
 
-To see the contradiction clearly: first, assume that you have some valid argument $A$ that $S^2$ recommends cooperation.
+To see the inconsistency clearly: first, assume that you have some valid argument $A$ that $S^2$ recommends cooperation.
 Now, imagine another argument $B$ which begins with the premise that $S^2$ recommends defection.
 Insert after that premise all the steps of argument $A$, ending with the statement that $S^2$ recommends cooperation.
 With that in conjunction with the premise, $B$ concludes that $S^2$ recommends defection and that it recommends cooperation.
@@ -95,17 +109,6 @@ Or, considering the principle of explosion, how can we avoid asserting everythin
 
 That's why counterpossibles present more serious issues than ordinary counterfactuals.
 There is not just a fact but a logical argument contradicting the premise.
-
-## The gap in the argument about $S^2$
-
-If counterpossibles are nonsensical but unavoidable, then how did I derive that $S^2$ recommends cooperation?
-
-Well, remember, I did _not_ derive the key statement about $S^2$'s behavior.
-That is: for each action, if $S^2$ recommends that action, then both players will take it—or if it _had_ recommended it, then both players _would_ have taken it.
-
-I just said we would like to be able to derive that from the information given about the problem.
-But to derive it, we'd have to be clear about exactly what we mean by "if $S^2$ had recommended defection, then both players would have defected".
-As far as I can tell it is an unresolved question how to do that while avoiding the issues with counterpossibles described in the previous section.
 
 ## Conclusion
 
