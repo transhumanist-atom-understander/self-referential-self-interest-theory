@@ -112,7 +112,7 @@ One might wonder, can you just ignore Newcomb's problem and the whole body of de
 I think the answer is no.
 The kind of situations that logical decision theory is supposed to address come up naturally in the course of philosophy.
 
-When reading _Reasons and Persons_, this example was the first point where, being familiar with logical decision theory, it seems that there was an important unexplored path that undermines the conclusion.
+When reading _Reasons and Persons_, this example was the first point where, being familiar with logical decision theory, it seemed that there was an important unexplored path that undermines the conclusion.
 There are more cases like that in the book, although I haven't read far enough into it to judge what that ultimately means for Parfitt's main theses.
 
 But I hope I've also communicated to you why logical decision theory is at best a work in progress, and why some would consider it just nonsense.
