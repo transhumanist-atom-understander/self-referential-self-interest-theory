@@ -108,8 +108,13 @@ There is not just a fact but a logical argument contradicting the premise.
 
 ## Conclusion
 
-I think it's worth trying to solve or avoid the issues with counterpossibles, even though I'm not convinced of the looser applications of LDT, such as to [voting](https://www.lesswrong.com/w/logical-decision-theories?lens=introduction-to-logical-decision-theory-for-economists#Voting).
+One might wonder, can you just ignore Newcomb's problem and the whole body of decision theory literature that it spawned?
+I think the answer is no.
+The kind of situations that logical decision theory is supposed to address come up naturally in the course of philosophy.
 
-I think it's interesting that the basic idea of LDT applies unambiguously to this argument of Parfit's, since the players are assumed to be deriving their recommendations from the exact same theory.
+When reading _Reasons and Persons_, this example was the first point where, being familiar with logical decision theory, it seems that there was an important unexplored path that undermines the conclusion.
+There are more cases like that in the book, although I haven't read far enough into it to judge what that ultimately means for Parfitt's main theses.
 
-And furthermore, I think it's interesting that we aren't talking about Newcomb's problem or the body of decision theory literature provoked by it, but an argument from philosophy of independent interest.
+But I hope I've also communicated to you why logical decision theory is at best a work in progress, and why some would consider it just nonsense.
+Theories in the LDT family include [timeless decision theory](https://intelligence.org/files/TDT.pdf) and [functional decision theory](https://arxiv.org/abs/1710.05060), and as I understand it, both of these put in the counterpossibles by hand the same way I did in this post.
+I won't really be satisfied with arguments like the one in this post until I can follow the logic step by step without running into inconsistencies.
