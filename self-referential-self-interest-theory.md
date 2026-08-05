@@ -14,18 +14,18 @@ There is no difference, as long as your choice is the only thing in the world th
 The only substantial applications of LDT are games where the player's environment contains some other implementation of the algorithm.
 The central example is Newcomb's problem.
 
-But Newcomb's problem sounds like a science fiction story, and I'm not convinced by [the case that analogous problems are part of our normal social lives](https://www.lesswrong.com/posts/puutBJLWbg2sXpFbu/newcomblike-problems-are-the-norm).
+But Newcomb's problem sounds like a science fiction story, and I'm not convinced by [the case that analogous problems are part of our ordinary social lives](https://www.lesswrong.com/posts/puutBJLWbg2sXpFbu/newcomblike-problems-are-the-norm).
 
 But leaving aside the prospect of applying LDT to real life, I do think it's important in philosophy.
 In this post I'm going to share an example that came up when I was reading Derek Parfit's _Reasons and Persons_.
 It's an argument that Parfit makes where LDT seems conspicuously missing.
-Like, if you were familiar with it, you would have gone in a different direction.
+Like, if you were familiar with LDT, you would have gone in a different direction.
 
 Derek Parfit's book introduces a zoo of theories of morality and rationality, which he refers to by single-letter acronyms.
 In the first part of the book (all I've read to be honest), he describes how these theories can be self-defeating, introducing a taxonomy of the varieties of self-defeat.
 
 The basic principle of LDT becomes applicable when Parfit introduces "collective self-defeat".
-This variety of self-defeat depends on the outcome when multiple players are deciding according to the same theory.
+This variety of self-defeat depends on the outcome of a game in which multiple players decide according to the same theory.
 Because you know the other players are deriving their decisions from the same theory as you are, a philosophical move inspired by LDT yields interesting results.
 
 ## Parfit's claim: S is collectively self-defeating
@@ -87,12 +87,12 @@ Therefore the outcome is mutual cooperation, and Parfit's argument that $S$ is c
 ## Where can we get S²'s counterpossibles?
 
 But why assume that whatever $S^2$ recommends, both players will do (and that if it had recommended otherwise, then both players would have done that instead)?
-Because the prisoner's dilemma is symmetrical: it looks the same from the perspective of each player.
+Because the game is symmetrical: it looks the same from the perspective of each player.
 So both players should get the same recommendation from $S^2$.
 And since they're both $S^2$ theorists, they both follow that recommendation.
 
 We want that reasoning to go through, but it seems hard for any formal theory to work like that.
-Let's see how the theoretical difficulty with counterpossibles manifests in this problem.
+I started this post by telling you that counterpossibles present theoretical diffulties, and next I'll explain how that manifests in this example.
 
 ## The problematic counterpossible for S² in the prisoner's dilemma
 
@@ -124,6 +124,6 @@ The kind of situations that logical decision theory is supposed to address come 
 When reading _Reasons and Persons_, the argument above was the first place in the book where, being familiar with LDT, I saw an important unexplored path that seemed to undermine the conclusion.
 There are more cases like that in the book, although I haven't read far enough into it to judge what that ultimately means for Parfit's main theses.
 
-But I hope I've also communicated to you why logical decision theory is at best a work in progress, and why some would consider it just nonsense.
+But I hope I've also communicated to you why LDT is at best a work in progress, and why some would consider it just nonsense.
 Theories in the LDT family include [timeless decision theory](https://intelligence.org/files/TDT.pdf) and [functional decision theory](https://arxiv.org/abs/1710.05060), and as I understand it, both of these put in the counterpossibles by hand the same way I did in this post.
 I won't really be satisfied with arguments like the one in this post until I can follow the logic step by step in a consistent formal theory, all the way from the assumptions about the game to the conclusion about the theory's recommendation.
