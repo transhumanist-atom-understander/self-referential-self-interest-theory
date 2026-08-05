@@ -1,3 +1,4 @@
+# An argument of Parfit's reconsidered with logical decision theory
 A _logical decision theory_ [recommends that you choose as if deciding the output of your decision algorithm](https://www.lesswrong.com/w/logical-decision-theories?lens=introduction-to-logical-decision-theory-for-analytic#Logical_decision_theory).
 
 The main difficulty in formulating a logical decision theory is how to define statements like: "If my algorithm outputs this, the result will be that".
@@ -22,7 +23,7 @@ Derek Parfit's book describes a variety of theories of morality and rationality,
 One property, the property of being "collectively self-defeating", is defined in terms of games where multiple players are deciding according to the same theory.
 Because each player faces an "environment" (the other player) which depends on the same theory they are using to decide, a philosophical move inspired by LDT yields interesting results.
 
-## The claim: S is collectively self-defeating
+## Parfit's claim: S is collectively self-defeating
 
 I'm going to repeat an argument that Derek Parfit made about the self-interest theory ($S$), which he says is a theory of rationality.
 (Since this is LessWrong, I must add that he doesn't mean [what Yudkowsky means by "rationality"](https://www.lesswrong.com/posts/HcCpvYLoSFP4iAqSz/rationality-appreciating-cognitive-algorithms), but I don't think that's important for this argument.)
@@ -36,7 +37,7 @@ Parfit argues that $S$ has the property of being _collectively self-defeating_: 
 Maybe being collectively self-defeating is fine—Parfit does not say it's grounds for rejecting $S$.
 What's special about this argument is that it is the first argument in the book—not the most important one—where an LDT-inspired move goes somewhere interesting.
 
-## The argument: S in the prisoner's dilemma
+## Parfit's argument: S in the prisoner's dilemma
 
 The argument that $S$ is collectively self-defeating begins by considering two $S$ theorists in a prisoner's dilemma, with which I assume you are familiar.
 
