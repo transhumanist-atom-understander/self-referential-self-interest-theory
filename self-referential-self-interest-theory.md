@@ -92,7 +92,7 @@ So both players should get the same recommendation from $S^2$.
 And since they're both $S^2$ theorists, they both follow that recommendation.
 
 We want that reasoning to go through, but it seems hard for any formal theory to work like that.
-I started this post by telling you that counterpossibles present theoretical diffulties, and next I'll explain how that manifests in this example.
+I started this post by telling you that counterpossibles present theoretical difficulties, and next I'll explain how that manifests in this example.
 
 ## The problematic counterpossible for S² in the prisoner's dilemma
 
@@ -110,7 +110,7 @@ With that in conjunction with the premise, $B$ concludes that $S^2$ recommends d
 $B$, then, is a valid argument from its premise to a contradiction.
 
 If we cannot consistently reason from the premise that $S^2$ recommends defection, how can we assert what would happen in that case?
-Or, considering the principle of explosion, how can we avoid asserting everything: that if $S^2$ recommends defection then both players defect, and they cooperate, and get invitation letters from Hogwarts?
+Or, considering the principle of explosion, how can we avoid asserting everything: that if $S^2$ recommends defection then both players defect, and they cooperate, and get acceptance letters from Hogwarts?
 
 That's why counterpossibles present more serious issues than ordinary counterfactuals.
 There is not just a fact but a logical argument contradicting the premise.
