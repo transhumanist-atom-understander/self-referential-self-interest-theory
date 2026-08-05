@@ -119,11 +119,11 @@ There is not just a fact but a logical argument contradicting the premise.
 
 One might wonder, can you just ignore Newcomb's problem and the whole body of decision theory literature that it spawned?
 I think the answer is no.
-The kind of situations that logical decision theory is supposed to address come up naturally in the course of philosophy.
+The kind of situations that logical decision theory is supposed to address come up naturally in the course of philosophical arguments.
 
-When reading _Reasons and Persons_, this example was the first point where, being familiar with logical decision theory, it seemed that there was an important unexplored path that undermines the conclusion.
+When reading _Reasons and Persons_, the argument above was the first point in the book where, being familiar with LDT, it seemed that there was an important unexplored path that undermines the conclusion.
 There are more cases like that in the book, although I haven't read far enough into it to judge what that ultimately means for Parfit's main theses.
 
 But I hope I've also communicated to you why logical decision theory is at best a work in progress, and why some would consider it just nonsense.
 Theories in the LDT family include [timeless decision theory](https://intelligence.org/files/TDT.pdf) and [functional decision theory](https://arxiv.org/abs/1710.05060), and as I understand it, both of these put in the counterpossibles by hand the same way I did in this post.
-I won't really be satisfied with arguments like the one in this post until I can follow the logic step by step without running into inconsistencies.
+I won't really be satisfied with arguments like the one in this post until I can follow the logic step by step in a consistent formal theory, all the way from the assumptions about the game to the conclusion about the theory's recommendation.
