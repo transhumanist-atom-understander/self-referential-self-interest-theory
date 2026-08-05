@@ -26,7 +26,7 @@ In the first part of the book (all I've read to be honest), he describes how the
 
 The basic principle of LDT becomes applicable when Parfit introduces "collective self-defeat".
 This variety of self-defeat depends on the outcome when multiple players are deciding according to the same theory.
-Because you know the other players are deriving their decisions from the same theory as you are, a philosphical move inspired by LDT yields interesting results.
+Because you know the other players are deriving their decisions from the same theory as you are, a philosophical move inspired by LDT yields interesting results.
 
 ## Parfit's claim: S is collectively self-defeating
 
@@ -121,7 +121,7 @@ One might wonder, can you just ignore Newcomb's problem and the whole body of de
 I think the answer is no.
 The kind of situations that logical decision theory is supposed to address come up naturally in the course of philosophical arguments.
 
-When reading _Reasons and Persons_, the argument above was the first point in the book where, being familiar with LDT, it seemed that there was an important unexplored path that undermines the conclusion.
+When reading _Reasons and Persons_, the argument above was the first place in the book where, being familiar with LDT, I saw an important unexplored path that seemed to undermine the conclusion.
 There are more cases like that in the book, although I haven't read far enough into it to judge what that ultimately means for Parfit's main theses.
 
 But I hope I've also communicated to you why logical decision theory is at best a work in progress, and why some would consider it just nonsense.
