@@ -16,12 +16,17 @@ The central example is Newcomb's problem.
 
 But Newcomb's problem sounds like a science fiction story, and I'm not convinced by [the case that analogous problems are part of our normal social lives](https://www.lesswrong.com/posts/puutBJLWbg2sXpFbu/newcomblike-problems-are-the-norm).
 
-That's the context for the observation I want to share: that I was reading Derek Parfit's _Reasons and Persons_, and LDT seemed like an important missing piece in one of his arguments.
-It's not an application of LDT in real life, but it's an application to philosophical argumentation.
+But leaving aside the prospect of applying LDT to real life, I do think it's important in philosophy.
+In this post I'm going to share an example that came up when I was reading Derek Parfit's _Reasons and Persons_.
+It's an argument that Parfit makes where LDT seems conspicuously missing.
+Like, if you were familiar with it, you would have gone in a different direction.
 
-Derek Parfit's book describes a variety of theories of morality and rationality, and defines certain properties of these theories.
-One property, the property of being "collectively self-defeating", is defined in terms of games where multiple players are deciding according to the same theory.
-Because each player faces an "environment" (the other player) which depends on the same theory they are using to decide, a philosophical move inspired by LDT yields interesting results.
+Derek Parfit's book introduces a zoo of theories of morality and rationality, which he refers to by single-letter acronyms.
+In the first part of the book (all I've read to be honest), he describes how these theories can be self-defeating, introducing a taxonomy of the varieties of self-defeat.
+
+The basic principle of LDT becomes applicable when Parfit introduces "collective self-defeat".
+This variety of self-defeat depends on the outcome when multiple players are deciding according to the same theory.
+Because you know the other players are deriving their decisions from the same theory as you are, a philosphical move inspired by LDT yields interesting results.
 
 ## Parfit's claim: S is collectively self-defeating
 
