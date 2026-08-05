@@ -30,7 +30,8 @@ Because you know the other players are deriving their decisions from the same th
 
 ## Parfit's claim: S is collectively self-defeating
 
-I'm going to repeat an argument that Derek Parfit made about the self-interest theory ($S$), which he says is a theory of rationality.
+I'm going to use a single argument of Parfit's as an example.
+The subject of the argument is the self-interest theory ($S$), which he says is a theory of rationality.
 (Since this is LessWrong, I must add that he doesn't mean [what Yudkowsky means by "rationality"](https://www.lesswrong.com/posts/HcCpvYLoSFP4iAqSz/rationality-appreciating-cognitive-algorithms), but I don't think that's important for this argument.)
 
 What we need to know about $S$ is that it prescribes an aim, which is that your life go as well as possible, as well as what I'll call a policy: it recommends taking the actions that make your life go as well as possible, among the available alternatives.
@@ -41,6 +42,8 @@ Parfit argues that $S$ has the property of being _collectively self-defeating_: 
 
 Maybe being collectively self-defeating is fine—Parfit does not say it's grounds for rejecting $S$.
 What's special about this argument is that it is the first argument in the book—not the most important one—where an LDT-inspired move goes somewhere interesting.
+
+I'll begin by paraphrasing the argument, and then we'll reconsider from a perspective informed by LDT.
 
 ## Parfit's argument: S in the prisoner's dilemma
 
